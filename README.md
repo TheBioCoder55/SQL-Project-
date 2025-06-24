@@ -1,12 +1,64 @@
-# SQL_Project
-Practiced and executed SQL queries on two real-world-style sample databases — Northwind (a classic sales and inventory dataset) and Airline DB — to explore key business metrics and sales insights.
+# 🧾 SQL Project: Sales & Business Data Analysis (Northwind + Airline DB)
 
-**Key Highlights:**
+## 📝 Project Overview
+This project demonstrates my ability to write and execute **SQL queries** on two real-world-style relational databases — **Northwind** (a classic retail dataset) and **Airline DB** (flight booking and operations data). The focus was to explore business metrics, customer behavior, and regional performance using advanced SQL techniques.
 
-- Wrote complex queries using JOIN, GROUP BY, ORDER BY, CTE, and CASE
-- Analyzed customer orders, product performance, and regional sales trends
-- Calculated key metrics like total sales, average order value, most ordered products, and top revenue-generating regions
-- Used LEFT JOIN, INNER JOIN, and subqueries to extract cross-table insights
-- Applied window functions (e.g., RANK, ROW_NUMBER) for ranking and trend analysis
+---
 
-These projects improved my SQL querying skills and gave me hands-on experience with sales data, preparing me for real-world business intelligence and data analysis tasks.
+## 🧠 Key Highlights
+- 🔗 Wrote complex queries using:
+  - `JOIN`, `LEFT JOIN`, `INNER JOIN`
+  - `GROUP BY`, `ORDER BY`, `HAVING`
+  - `CTE`, `CASE`, and subqueries
+
+- 📊 Analyzed:
+  - Customer order patterns
+  - Product sales performance
+  - Regional and category-wise revenue trends
+
+- 📈 Calculated key business metrics:
+  - Total Sales  
+  - Average Order Value  
+  - Most Ordered Products  
+  - Top Revenue-Generating Regions
+
+- 🧮 Applied **Window Functions**:
+  - `RANK()`, `ROW_NUMBER()`, `DENSE_RANK()` for trend analysis and ranking
+
+---
+
+## 📂 Databases Used
+- **Northwind**: A sales and inventory database featuring customers, orders, employees, and products  
+- **Airline DB**: A simplified flight booking and operations database to practice cross-table querying and metrics extraction
+
+---
+
+## 🔧 Skills Practiced
+- 🧬 Relational Database Design Understanding  
+- 📑 Data Retrieval & Filtering  
+- 🧮 Aggregation & Grouping  
+- ⚙️ Cross-table Querying using JOINs  
+- 📊 Business Metrics Calculation  
+- 🔍 Exploratory Data Analysis using SQL
+
+---
+
+## 🧰 Tools & Technologies
+- 🐘 MySQL / PostgreSQL / SQL Server 
+- 📄 SQL Query Editor (e.g., DBeaver, MySQL Workbench, SSMS)
+- 📊 Sample Databases: Northwind & Airline DB
+
+---
+
+## 💡 What I Learned
+These projects strengthened my ability to:
+- Write clean, optimized SQL queries  
+- Work with normalized data across multiple tables  
+- Use analytical SQL for business questions  
+- Apply ranking functions for performance comparison and trend analysis  
+- Interpret raw data to uncover actionable insights
+
+---
+
+
+
